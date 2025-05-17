@@ -13,7 +13,7 @@ Ingeniero en Sistemas Computacionales, con interés en las redes y tecnologías 
 ## 🧾 Licencias y certificaciones
 
 Puedes consultar mis certificaciones en mi perfil de Linkedin:  
-[**linkedin.com/in/mxalanlunamx](https://www.linkedin.com/in/mxalanlunamx/)
+[linkedin.com/in/mxalanlunamx](https://www.linkedin.com/in/mxalanlunamx/)
 
 ## 📂 Mis repositorios
 
